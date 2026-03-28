@@ -34,6 +34,6 @@
 * **Continuous Growth:** Цікавлюся автоматизацією, FinTech та новими стандартами розробки.
 
 ### 📊 Статистика GitHub
-![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВІЙ_НІКНЕЙМ&show_icons=true&theme=transparent&hide_border=true)
+![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=illya-klus&show_icons=true&theme=transparent&hide_border=true)
 
 ---
