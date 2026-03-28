@@ -1,6 +1,6 @@
-# Привіт, я Ілля! 👋
+# Привіт, я Ілля!
 
-### Fullstack Developer (React + Node.js) 🚀
+### WEB Developer (React + TypeScript + Node.js)
 
 Я фокусуюся на створенні **чистих інтерфейсів** та **надійної архітектури**. Розробляю масштабовані веб-додатки, поєднуючи сучасний Frontend (React/TS) та ефективний Backend (Node.js/SQL).
 
@@ -32,8 +32,3 @@
 * **Database Management:** Робота з реляційними базами даних (PostgreSQL/SQLite) для складних бізнес-процесів.
 * **BaaS Integration:** Швидке розгортання через Firebase/Supabase для MVP та стартапів.
 * **Continuous Growth:** Цікавлюся автоматизацією, FinTech та новими стандартами розробки.
-
-### 📊 Статистика GitHub
-![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=illya-klus&show_icons=true&theme=transparent&hide_border=true)
-
----
