@@ -1,35 +1,29 @@
-Illya Klus — Fullstack Developer
-Node.js · NestJS · React · Next.js · PostgreSQL · Docker · AWS
+# Привіт, я Ілля! 
+### Fullstack Developer (Node.js + NestJS + React + Next.js)
+Розробляю масштабовані веб-додатки з чистою архітектурою. Поєдную сучасний Frontend (React/Next.js) з надійним Backend (Node.js/NestJS) та продуманою роботою з базами даних.
 
-Stack
-AreaTechnologiesBackendNode.js, NestJS, Express.js, REST, GraphQLFrontendReact, Next.js, Redux, Zustand, Tailwind CSS, MUIDatabasesPostgreSQL, MongoDB, Redis, Elasticsearch, Prisma, TypeORMMessagingKafka, RabbitMQ, AWS SQSDevOpsDocker, AWS (EC2, ECS, S3), Kubernetes (basic), CI/CD via GitHub ActionsTestingJest, Playwright, Swagger, Postman, DatadogLanguagesTypeScript, JavaScript (ES6+)
+### Технологічний стек
 
-Projects
-Dashly — Food delivery platform
-Next.js NestJS MongoDB PostgreSQL RabbitMQ Stripe
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-Notification microservice with async delivery via RabbitMQ (push, email, SMS)
-Idempotent payment processing to eliminate duplicate transactions during network failures
-PostgreSQL schema for transactional data (orders, payments, users) with integrity constraints
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-Zoomio — E-commerce for pet products
-Next.js NestJS PostgreSQL Redis Docker AWS EC2
-
-CI/CD pipeline via GitHub Actions with auto-build, test execution, and deploy to AWS
-Redis caching for product catalog and cart sessions
-Stripe integration with webhook handling
-
-
-Kazkar — AI fairy tale generator from parents' voices
-React Express.js PostgreSQL AWS ECS/S3 Docker
-
-AI storytelling pipeline generating personalized tales from recorded voices
-Async processing for long-running voice transformation tasks
-Role-based access control for private family content
-
-
-Education
-Lviv Polytechnic National University — B.S. Computer Science
-Languages
-🇺🇦 Ukrainian — native  ·  🇬🇧 English — B2  ·  🇩🇪 German — A2
+#### **Messaging & Cloud**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
