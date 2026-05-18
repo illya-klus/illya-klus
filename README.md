@@ -1,7 +1,7 @@
-Illya Klus — Fullstack Developer
+###Illya Klus — Fullstack Developer
 Node.js · NestJS · React · Next.js · PostgreSQL · Docker · AWS
 
-Stack
+####Stack
 Backend — Node.js, NestJS, Express.js, REST, GraphQL
 Frontend — React, Next.js, Redux, Zustand, Tailwind CSS, MUI
 Databases — PostgreSQL, MongoDB, Redis, Elasticsearch, Prisma, TypeORM
@@ -10,7 +10,7 @@ DevOps — Docker, AWS (EC2, ECS, S3, SQS), basic Kubernetes, CI/CD (GitHub Acti
 Testing — Jest, Playwright, Swagger, Postman, Datadog
 Languages — TypeScript, JavaScript (ES6+)
 
-Projects
+####Projects
 Dashly — Food delivery platform
 Next.js · NestJS · MongoDB · PostgreSQL · RabbitMQ · Stripe
 Notification microservice with async delivery (push/email/SMS), idempotent payment processing, PostgreSQL schema for transactional data.
